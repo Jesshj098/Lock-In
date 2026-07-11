@@ -1,0 +1,122 @@
+2026-07-10 23:04:53 — [INFO] Program started.
+2026-07-10 23:04:53 — [INFO] Blacklist loaded successfully (9 apps).
+2026-07-10 23:06:04 — [INFO] Study goal set to: Jugar
+2026-07-10 23:06:11 — [INFO] Focus time set to 30 minutes.
+2026-07-10 23:06:11 — [INFO] Focus session started.
+2026-07-10 23:06:21 — [ERROR] Could not detect the active window/app: Command '['osascript', '-e', 'tell application "System Events" to get name of first process whose frontmost is true']' timed out after 5 seconds
+2026-07-10 23:06:21 — [INFO] Active window detected -> title: 'Unknown' | process: 'Unknown'
+2026-07-10 23:06:31 — [ERROR] Could not detect the active window/app: Command '['osascript', '-e', 'tell application "System Events" to get name of first process whose frontmost is true']' timed out after 5 seconds
+2026-07-10 23:06:31 — [INFO] Active window detected -> title: 'Unknown' | process: 'Unknown'
+2026-07-10 23:06:41 — [ERROR] Could not detect the active window/app: Command '['osascript', '-e', 'tell application "System Events" to get name of first process whose frontmost is true']' timed out after 5 seconds
+2026-07-10 23:06:41 — [INFO] Active window detected -> title: 'Unknown' | process: 'Unknown'
+2026-07-10 23:06:51 — [ERROR] Could not detect the active window/app: Command '['osascript', '-e', 'tell application "System Events" to get name of first process whose frontmost is true']' timed out after 5 seconds
+2026-07-10 23:06:51 — [INFO] Active window detected -> title: 'Unknown' | process: 'Unknown'
+2026-07-10 23:06:59 — [INFO] Active window detected -> title: 'Python' | process: 'Python'
+2026-07-10 23:07:04 — [INFO] Active window detected -> title: 'Python' | process: 'Python'
+2026-07-10 23:07:10 — [INFO] Active window detected -> title: 'Python' | process: 'Python'
+2026-07-10 23:07:15 — [INFO] Active window detected -> title: 'Python' | process: 'Python'
+2026-07-10 23:07:25 — [WARNING] Could not read the Google Chrome tab title: Command '['osascript', '-e', 'tell application "Google Chrome" to get title of active tab of front window']' timed out after 5 seconds
+2026-07-10 23:07:25 — [INFO] Active window detected -> title: 'Google Chrome' | process: 'Google Chrome'
+2026-07-10 23:07:31 — [INFO] Active window detected -> title: 'New Tab' | process: 'Google Chrome'
+2026-07-10 23:07:36 — [INFO] Active window detected -> title: 'New Tab' | process: 'Google Chrome'
+2026-07-10 23:07:41 — [INFO] Active window detected -> title: 'New Tab' | process: 'Google Chrome'
+2026-07-10 23:07:46 — [INFO] Active window detected -> title: 'tik tok web - Buscar con Google' | process: 'Google Chrome'
+2026-07-10 23:07:52 — [INFO] Active window detected -> title: 'Discord' | process: 'Discord'
+2026-07-10 23:07:52 — [WARNING] Distraction detected (Discord). Reminder displayed to the user.
+2026-07-10 23:07:57 — [INFO] Active window detected -> title: 'tik tok web - Buscar con Google' | process: 'Google Chrome'
+2026-07-10 23:08:02 — [INFO] Active window detected -> title: 'TikTok - Make Your Day' | process: 'Google Chrome'
+2026-07-10 23:08:02 — [WARNING] Distraction detected (TikTok - Make Your Day). Reminder displayed to the user.
+2026-07-10 23:08:07 — [INFO] Active window detected -> title: 'Python' | process: 'Python'
+2026-07-10 23:08:12 — [INFO] Active window detected -> title: 'Python' | process: 'Python'
+2026-07-10 23:08:17 — [INFO] Active window detected -> title: 'Python' | process: 'Python'
+2026-07-10 23:08:23 — [INFO] Active window detected -> title: 'Discord' | process: 'Discord'
+2026-07-10 23:08:23 — [WARNING] Distraction detected (Discord). Reminder displayed to the user.
+2026-07-10 23:08:28 — [INFO] Active window detected -> title: 'Python' | process: 'Python'
+2026-07-10 23:08:33 — [INFO] Active window detected -> title: 'TikTok - Make Your Day' | process: 'Google Chrome'
+2026-07-10 23:08:33 — [WARNING] Distraction detected (TikTok - Make Your Day). Reminder displayed to the user.
+2026-07-10 23:08:38 — [INFO] Active window detected -> title: 'Python' | process: 'Python'
+2026-07-10 23:08:43 — [INFO] Active window detected -> title: 'Python' | process: 'Python'
+2026-07-10 23:08:48 — [INFO] Active window detected -> title: 'Discord' | process: 'Discord'
+2026-07-10 23:08:48 — [WARNING] Distraction detected (Discord). Reminder displayed to the user.
+2026-07-10 23:08:53 — [INFO] Active window detected -> title: 'Discord' | process: 'Discord'
+2026-07-10 23:08:53 — [WARNING] Distraction detected (Discord). Reminder displayed to the user.
+2026-07-10 23:08:59 — [INFO] Active window detected -> title: 'Python' | process: 'Python'
+2026-07-10 23:09:04 — [INFO] Active window detected -> title: 'Python' | process: 'Python'
+2026-07-10 23:09:09 — [INFO] Active window detected -> title: 'Python' | process: 'Python'
+2026-07-10 23:09:14 — [INFO] Active window detected -> title: 'Python' | process: 'Python'
+2026-07-10 23:09:19 — [INFO] Active window detected -> title: 'Discord' | process: 'Discord'
+2026-07-10 23:09:19 — [WARNING] Distraction detected (Discord). Reminder displayed to the user.
+2026-07-10 23:09:24 — [INFO] Active window detected -> title: 'Discord' | process: 'Discord'
+2026-07-10 23:09:24 — [WARNING] Distraction detected (Discord). Reminder displayed to the user.
+2026-07-10 23:09:29 — [INFO] Active window detected -> title: 'Discord' | process: 'Discord'
+2026-07-10 23:09:29 — [WARNING] Distraction detected (Discord). Reminder displayed to the user.
+2026-07-10 23:09:35 — [INFO] Active window detected -> title: 'Discord' | process: 'Discord'
+2026-07-10 23:09:35 — [WARNING] Distraction detected (Discord). Reminder displayed to the user.
+2026-07-10 23:09:40 — [INFO] Active window detected -> title: 'Python' | process: 'Python'
+2026-07-10 23:09:45 — [INFO] Active window detected -> title: 'Discord' | process: 'Discord'
+2026-07-10 23:09:45 — [WARNING] Distraction detected (Discord). Reminder displayed to the user.
+2026-07-10 23:09:50 — [INFO] Active window detected -> title: 'Discord' | process: 'Discord'
+2026-07-10 23:09:50 — [WARNING] Distraction detected (Discord). Reminder displayed to the user.
+2026-07-10 23:09:55 — [INFO] Active window detected -> title: 'Discord' | process: 'Discord'
+2026-07-10 23:09:55 — [WARNING] Distraction detected (Discord). Reminder displayed to the user.
+2026-07-10 23:10:00 — [INFO] Active window detected -> title: 'Discord' | process: 'Discord'
+2026-07-10 23:10:00 — [WARNING] Distraction detected (Discord). Reminder displayed to the user.
+2026-07-10 23:10:05 — [INFO] Active window detected -> title: 'Discord' | process: 'Discord'
+2026-07-10 23:10:05 — [WARNING] Distraction detected (Discord). Reminder displayed to the user.
+2026-07-10 23:10:11 — [INFO] Active window detected -> title: 'Discord' | process: 'Discord'
+2026-07-10 23:10:11 — [WARNING] Distraction detected (Discord). Reminder displayed to the user.
+2026-07-10 23:10:16 — [INFO] Active window detected -> title: 'Discord' | process: 'Discord'
+2026-07-10 23:10:16 — [WARNING] Distraction detected (Discord). Reminder displayed to the user.
+2026-07-10 23:10:21 — [INFO] Active window detected -> title: 'Discord' | process: 'Discord'
+2026-07-10 23:10:21 — [WARNING] Distraction detected (Discord). Reminder displayed to the user.
+2026-07-10 23:10:26 — [INFO] Active window detected -> title: 'Discord' | process: 'Discord'
+2026-07-10 23:10:26 — [WARNING] Distraction detected (Discord). Reminder displayed to the user.
+2026-07-10 23:10:31 — [INFO] Active window detected -> title: 'Discord' | process: 'Discord'
+2026-07-10 23:10:31 — [WARNING] Distraction detected (Discord). Reminder displayed to the user.
+2026-07-10 23:10:36 — [INFO] Active window detected -> title: 'Discord' | process: 'Discord'
+2026-07-10 23:10:36 — [WARNING] Distraction detected (Discord). Reminder displayed to the user.
+2026-07-10 23:10:41 — [INFO] Active window detected -> title: 'Discord' | process: 'Discord'
+2026-07-10 23:10:41 — [WARNING] Distraction detected (Discord). Reminder displayed to the user.
+2026-07-10 23:10:47 — [INFO] Active window detected -> title: 'Discord' | process: 'Discord'
+2026-07-10 23:10:47 — [WARNING] Distraction detected (Discord). Reminder displayed to the user.
+2026-07-10 23:10:52 — [INFO] Active window detected -> title: 'Discord' | process: 'Discord'
+2026-07-10 23:10:52 — [WARNING] Distraction detected (Discord). Reminder displayed to the user.
+2026-07-10 23:10:57 — [INFO] Active window detected -> title: 'Discord' | process: 'Discord'
+2026-07-10 23:10:57 — [WARNING] Distraction detected (Discord). Reminder displayed to the user.
+2026-07-10 23:11:02 — [INFO] Active window detected -> title: 'Discord' | process: 'Discord'
+2026-07-10 23:11:02 — [WARNING] Distraction detected (Discord). Reminder displayed to the user.
+2026-07-10 23:11:07 — [INFO] Active window detected -> title: 'Discord' | process: 'Discord'
+2026-07-10 23:11:07 — [WARNING] Distraction detected (Discord). Reminder displayed to the user.
+2026-07-10 23:11:12 — [INFO] Active window detected -> title: 'Discord' | process: 'Discord'
+2026-07-10 23:11:12 — [WARNING] Distraction detected (Discord). Reminder displayed to the user.
+2026-07-10 23:11:17 — [INFO] Active window detected -> title: 'Discord' | process: 'Discord'
+2026-07-10 23:11:17 — [WARNING] Distraction detected (Discord). Reminder displayed to the user.
+2026-07-10 23:11:23 — [INFO] Active window detected -> title: 'Discord' | process: 'Discord'
+2026-07-10 23:11:23 — [WARNING] Distraction detected (Discord). Reminder displayed to the user.
+2026-07-10 23:11:28 — [INFO] Active window detected -> title: 'Discord' | process: 'Discord'
+2026-07-10 23:11:28 — [WARNING] Distraction detected (Discord). Reminder displayed to the user.
+2026-07-10 23:11:33 — [INFO] Active window detected -> title: 'Python' | process: 'Python'
+2026-07-10 23:11:38 — [INFO] Active window detected -> title: 'Python' | process: 'Python'
+2026-07-10 23:11:43 — [INFO] Active window detected -> title: 'Python' | process: 'Python'
+2026-07-10 23:11:48 — [INFO] Active window detected -> title: 'Python' | process: 'Python'
+2026-07-10 23:15:27 — [INFO] Program started.
+2026-07-10 23:15:27 — [INFO] Blacklist loaded successfully (9 apps).
+2026-07-10 23:15:37 — [INFO] Study goal set to: 1
+2026-07-10 23:15:41 — [INFO] Focus time set to 1 minutes.
+2026-07-10 23:15:41 — [INFO] Focus session started.
+2026-07-10 23:15:46 — [INFO] Active window detected -> title: 'Python' | process: 'Python'
+2026-07-10 23:15:52 — [INFO] Active window detected -> title: 'Discord' | process: 'Discord'
+2026-07-10 23:15:52 — [WARNING] Distraction detected (Discord). Reminder displayed to the user.
+2026-07-10 23:15:57 — [INFO] Active window detected -> title: 'Python' | process: 'Python'
+2026-07-10 23:16:02 — [INFO] Active window detected -> title: 'Python' | process: 'Python'
+2026-07-10 23:16:07 — [INFO] Active window detected -> title: 'Python' | process: 'Python'
+2026-07-10 23:16:12 — [INFO] Active window detected -> title: 'Python' | process: 'Python'
+2026-07-10 23:16:17 — [INFO] Active window detected -> title: 'Python' | process: 'Python'
+2026-07-10 23:16:22 — [INFO] Active window detected -> title: 'Python' | process: 'Python'
+2026-07-10 23:16:27 — [INFO] Active window detected -> title: 'Python' | process: 'Python'
+2026-07-10 23:16:33 — [INFO] Active window detected -> title: 'Python' | process: 'Python'
+2026-07-10 23:16:38 — [INFO] Active window detected -> title: 'Python' | process: 'Python'
+2026-07-10 23:16:43 — [INFO] Active window detected -> title: 'Python' | process: 'Python'
+2026-07-10 23:16:43 — [INFO] Focus session ended.
+2026-07-10 23:16:43 — [INFO] Session finished. Goal: '1' | Time: 1 min | Distractions: 1 | Performance: Good
+2026-07-10 23:16:43 — [INFO] Program closed.
