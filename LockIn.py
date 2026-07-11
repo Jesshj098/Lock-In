@@ -1,34 +1,6 @@
 """
-LOCK IN - v2 (macOS version)
-Programming Final Project
-Author: Jesse Velazquez Rojas
-Data and AI Engineering - 2nd Quadrimester (May-August 2026)
 
-Lock In is a small productivity assistant. The user enters a study
-goal and a focus time (in minutes). While the timer is running, the
-program checks the app/window that is currently active on screen
-every 5 seconds. If that app or window belongs to a "distraction"
-app (the ones listed in blacklist.json), the program shows a
-reminder on the console and counts it as a distraction. When the
-timer is over, a summary of the session is printed.
 
-This version uses macOS's built-in "osascript" (AppleScript) through
-the subprocess module to ask the operating system which app is in
-front, instead of win32gui/win32process (those only exist on
-Windows). Everything else (JSON, logging, timer, error handling)
-works the same way.
-
-This is a school project, so the code is kept simple on purpose:
-no classes, no OOP, just variables, functions, loops, if statements,
-dictionaries, JSON and basic error handling, like we have seen in
-class so far.
-
-IMPORTANT (macOS only): the first time you run this, macOS will ask
-you to give your Terminal (or VS Code) permission under
-System Settings > Privacy & Security > Accessibility, so it can
-"see" which app/window is active. If you don't grant it, the app
-detection will fail and the program will log the error and keep
-using "Unknown" as the app name.
 """
 
 # =========================================================
@@ -45,10 +17,7 @@ import subprocess
 # =========================================================
 # LOGGING CONFIGURATION
 # =========================================================
-# The professor asked us to create a /logs folder with a log file
-# that is generated automatically by the program (not by hand).
-# So first we make sure the folder exists, and then we tell the
-# logging module to write everything there.
+
 
 LOGS_FOLDER = "logs"
 LOG_FILE_PATH = os.path.join(LOGS_FOLDER, "app.log")
